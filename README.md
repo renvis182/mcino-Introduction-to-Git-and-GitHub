@@ -17,7 +17,10 @@ _© 2022 XYZ, Inc._
 
 # Addional information
 ```
-Make changes on README.md file in the bug-fix-typo branch
-Commit changes
-From the bug-fix-typo branch merge the changes to the main branch
+1. Make changes on README.md file in the bug-fix-typo branch
+   Commit changes
+2. From the bug-fix-typo branch to merge the changes to the main branch
+   is necessary to create a pull request to the upstream repository
+3. To create pull request is important to compare main branch from base repository
+   with bug-fix-typo branch from head repository
 ```

@@ -14,3 +14,10 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+# Addional information
+```
+Make changes on README.md file in the bug-fix-typo branch
+Commit changes
+From the bug-fix-typo branch merge the changes to the main branch
+```
